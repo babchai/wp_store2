@@ -1,0 +1,41 @@
+/* wpStoreCart CSS Theme */
+.wpsc-button {font-size:1%;font-variant:small-caps;cursor:pointer;background:transparent;text-indent:-9000px;width:97px;height:30px;min-width:97px;min-height:30px;border:0px;border:none;}
+.wpsc-checkout {background:transparent url('small-grey/checkout.png') top left no-repeat;float:right;}
+.wpsc-addtocart {background:transparent url('small-grey/addtocart.png') top left no-repeat; width:110px; height:34px; margin:10px}
+.wpsc-buynow {background:transparent url('small-grey/buynow.png') top left no-repeat;}
+.wpsc-empty {background:transparent url('small-grey/empty.png') top left no-repeat;width:71px;height:24px;min-width:71px;min-height:24px;}
+.wpsc-update{background:transparent url('small-grey/update.png') top left no-repeat;width:71px;height:24px;min-width:71px;min-height:24px; width:110px; height:35px }
+.wpsc-paypalcheckout{background:transparent url('small-grey/paypalcheckout.png') top left no-repeat;width:204px; height:35px; margin:10px;}
+.wpsc-authorizenetcheckout{background:transparent url('small-grey/authorizenetcheckout.png') top left no-repeat;}
+.wpsc-2checkoutcheckout{background:transparent url('small-grey/2checkoutcheckout.png') top left no-repeat;}
+.wpsc-checkmoneyordercheckout{background:transparent url('small-grey/checkmoneyordercheckout.png') top left no-repeat; width:204px; height:35px}
+.wpsc-libertyreservecheckout{background:transparent url('small-grey/libertyreservecheckout.png') top left no-repeat;}
+.wpsc-qbmscheckout{background:transparent url('small-grey/checkout.png') top left no-repeat;}
+.wpsc-moneybookerscheckout{background:transparent url('small-grey/moneybookerscheckout.png') top left no-repeat;}
+.wpsc-login-button{background:transparent url('small-grey/login.png') top left no-repeat;}
+.wpsc-register-button {background:transparent url('small-grey/register.png') top left no-repeat;}
+.wpsc-done {background:transparent url('small-grey/done.png') top left no-repeat; width:97px}
+.wpsc-proceed{background:transparent url('small-grey/proceed.png') top left no-repeat; width:195px;height:35px;} 
+.wpsc-product-img {float:left;margin:10px 10px 10px 10px; border:1px solid #555;}
+.wpsc-button:hover {opacity:0.7;}
+.wpsc-hide {display:inline;}
+.wpsc-grid {display:block;float:left;margin:15px 10px 15px 10px;/*width:180px;
+            max-width:180px;height:350px;*/ 
+border:solid 1px #666666; padding:5px; font-size:10px;}
+.wpsc-clear {clear:both;}
+.wpsc-product-info {list-style:none;}
+.wpsc-product-info li {text-indent:12px;}
+.wpscerror {display:block;background-color:#ff0000;color:#000000;margin:5px 5px 5px 5px;padding:5px 5px 5px 5px;border:1px #000000 solid;}
+#cc_cvv_input {max-width:30px;width:30px;}
+#success_add { background-color:#0C0; color:#FFF ; border-radius: 25px 25px 25px 25px; padding:5px}
+#success_add a{color:#FFF; font-weight:bold}
+/* END wpStoreCart */
+#wpsc-gallery ul li  {display: inline;
+list-style-type: none;
+padding-right: 20px;}
+
+#wpsc-total{ color:#F00; font-size:16px; font-weight:bold}
+.wpsc-product-info input{ width:20px;}
+
+.wpsc-grid wpsc-products input {width:20px;}
+.wpsc-qty {width:20px}

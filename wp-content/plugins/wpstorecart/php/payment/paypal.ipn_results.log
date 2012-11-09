@@ -1,0 +1,156 @@
+[12/12/2010 10:26 PM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=29.99, protection_eligibility=Eligible, address_status=confirmed, item_number1=1, payer_id=3KH9CVLM7LVTU, tax=0.00, address_street=1 Connaught Place, payment_date=14:26:34 Dec 12, 2010 PST, payment_status=Completed, charset=windows-1252, address_zip=EH6 4QT, mc_shipping=0.00, mc_handling=0.00, first_name=Jayne, mc_fee=1.47, address_country_code=GB, address_name=Jayne Kennedy, notify_version=3.0, custom=55, payer_status=verified, business=jquindlen@gmail.com, address_country=United Kingdom, num_cart_items=1, mc_handling1=0.00, address_city=Edinburgh, verify_sign=ACUe-E7Hjxmeel8FjYAtjnx-yjHAAlZ48njmh4bt1br31s6XfLdB74fX, payer_email=jayne@fairmademusic.co.uk, mc_shipping1=0.00, txn_id=26G18638KJ766152T, payment_type=instant, last_name=Kennedy, address_state=Scotland, item_name1=wpStoreCart PRO (Complete), receiver_email=admin@wpstorecart.com, payment_fee=1.47, quantity1=1, receiver_id=SE5ZM6YQUU7NQ, txn_type=cart, mc_gross_1=29.99, mc_currency=USD, residence_country=GB, transaction_subject=55, payment_gross=29.99, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Sun, 12 Dec 2010 22:26:44 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=Ge0My9RA4LoEHwoQdgjoyQngZN4Y9A0cn8xCjLR8-JbK6P19avEGj-lDTVfc2K844WCujgCSM2TkBl7xuaCBCV1KZA2wDxi7-uPGTsW2PonzWpLddyHcwBHVUuxUm9igevaztW%7c26B0LhF0LBuYNVsbeys3xgBlsGHvd45K91IAytn2Z6HrLdjz77zEsSo2dum5HFBr3G-ggm%7ctqj6B2rQ715gpFHMuMvnUjtl3ShITeGtUkZhOcBy0veJ5KxCaLXxFlwP1rop8FITU1EJXm%7c1292192804; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 09-Dec-2020 22:26:44 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sat, 07-Dec-2030 22:26:44 GMT; domain=.paypal.com; path=/; HttpOnly
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[12/14/2010 2:09 AM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=29.99, protection_eligibility=Partially Eligible - INR Only, address_status=unconfirmed, item_number1=1, payer_id=4Q7SHTL5PA836, tax=0.00, address_street=PO Box 60951, payment_date=18:09:11 Dec 13, 2010 PST, payment_status=Completed, charset=windows-1252, address_zip=0045, mc_shipping=0.00, mc_handling=0.00, first_name=Paul, mc_fee=1.47, address_country_code=ZA, address_name=Paul Blackburn, notify_version=3.0, custom=56, payer_status=verified, business=jquindlen@gmail.com, address_country=South Africa, num_cart_items=1, mc_handling1=0.00, address_city=Pierre van Ryneveld, verify_sign=AgpSaqWo.iOzTKqtgutX-rp6.IpUAw2qIbA9lltGa24WmtLmhhm3l8gq, payer_email=paul@omina.co.za, mc_shipping1=0.00, txn_id=1Y019671TM234484R, payment_type=instant, last_name=Blackburn, address_state=Gauteng, item_name1=wpStoreCart PRO (Complete), receiver_email=admin@wpstorecart.com, payment_fee=1.47, quantity1=1, receiver_id=SE5ZM6YQUU7NQ, txn_type=cart, mc_gross_1=29.99, mc_currency=USD, residence_country=ZA, transaction_subject=56, payment_gross=29.99, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Tue, 14 Dec 2010 02:09:23 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=4Itw9pYdyO5CK_6XDV65Co4CpkLwXTy-KULypVZ3lvy7dA6WK8Yc-ddvmlO0MxS0-k2KdwVr4cLLvGcelBfq0a-TPCSie_iOFJW-nlN08KwhpfpdJ7QZH2rvVq-ZIPahcKLZqm%7cDyUbPRrjqakbHOZ27nzuQBPxLSUeWkA8XMwA1MAmluDKnsFWtFM_6Qx2WVoLUFDc2jjFOG%7cs-0QE6K-f2qYBHxsn0yQd97Qtt-4KZ9tCgtRE8BROypCQ2MCFbl_yPyIY8G8jyBVK0AyOG%7c1292292563; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 11-Dec-2020 02:09:23 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 09-Dec-2030 02:09:23 GMT; domain=.paypal.com; path=/; HttpOnly
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[12/14/2010 12:12 PM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=29.99, protection_eligibility=Eligible, address_status=confirmed, item_number1=1, payer_id=LBB9PGL4DH2SG, tax=0.00, address_street=32 Wren Gardens
+Alderholt, payment_date=04:12:14 Dec 14, 2010 PST, payment_status=Completed, charset=windows-1252, address_zip=SP6 3PJ, mc_shipping=0.00, mc_handling=0.00, first_name=Tom, mc_fee=1.47, address_country_code=GB, address_name=Tom Lawton, notify_version=3.0, custom=59, payer_status=unverified, business=jquindlen@gmail.com, address_country=United Kingdom, num_cart_items=1, mc_handling1=0.00, address_city=Fordingbridge, verify_sign=AomRS5l2W2xlt2An.GaSrAzpCl-NA4se9zxsXOfCm4OY3iJhGSFmWUTQ, payer_email=tlawton89@googlemail.com, mc_shipping1=0.00, txn_id=555536710X644335V, payment_type=instant, last_name=Lawton, address_state=Hampshire, item_name1=wpStoreCart PRO (Complete), receiver_email=admin@wpstorecart.com, payment_fee=1.47, quantity1=1, receiver_id=SE5ZM6YQUU7NQ, txn_type=cart, mc_gross_1=29.99, mc_currency=USD, residence_country=GB, transaction_subject=59, payment_gross=29.99, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Tue, 14 Dec 2010 12:12:25 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=6UmnnS8-hwfnvxYKVVkf8Z0dyUdMC6vJMCIzr7T0nc1CwpEvMCFDF5EHHun1RGCqLMNcENvL--6IyHJh_a3xU6lc2V9m8ut2sDQ3TAQT2Al976d_Z1sWWnCIh1w6QWcdQToOrW%7cXWtFkXHkAicXyJmQRl-Q5i6rw4A8xMn4FBzMfO6gLd4kzi8O2Q9yqNdlsB3p8SJIyCb0F0%7cwXUAZAOeckj7wNtSCj5D3yih_umA4c4OwR2z5CHutiefywFMzT-ZmuSfPXA7WSI3bnw-XG%7c1292328746; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 11-Dec-2020 12:12:26 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 09-Dec-2030 12:12:26 GMT; domain=.paypal.com; path=/; HttpOnly
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[12/15/2010 8:55 AM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=9.99, protection_eligibility=Partially Eligible - INR Only, address_status=unconfirmed, item_number1=1, payer_id=ESHXDRLYVX4LL, tax=0.00, address_street=4 rue cavaillon, payment_date=00:55:19 Dec 15, 2010 PST, payment_status=Completed, charset=windows-1252, address_zip=83990, mc_shipping=0.00, mc_handling=0.00, first_name=jean paul, mc_fee=0.69, address_country_code=FR, address_name=jean paul guigues, notify_version=3.0, custom=60, payer_status=verified, business=jquindlen@gmail.com, address_country=France, num_cart_items=1, mc_handling1=0.00, address_city=saint tropez, verify_sign=A9LC3Qajo-H2V8mPq4eIktgPvG2RAXtY.EhQ3YsgzSgeXDQmy.1fZrEJ, payer_email=jpg_2008@yahoo.fr, mc_shipping1=0.00, txn_id=2B4335006N1887205, payment_type=instant, last_name=guigues, address_state=, item_name1=wpscPayments PRO, receiver_email=admin@wpstorecart.com, payment_fee=0.69, quantity1=1, receiver_id=SE5ZM6YQUU7NQ, txn_type=cart, mc_gross_1=9.99, mc_currency=USD, residence_country=FR, transaction_subject=60, payment_gross=9.99, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Wed, 15 Dec 2010 08:55:25 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=gnuoxjBPKccdS9Zot3-s5A0sSIvnpCMrq6WYIQ8Jfnlglq1i4FzG5O1AZsWZen5RH5mViQ_HajLmfpbFP2a3lVXW9K3MX5U92nKZyeX_VHtV_JcvKQJZO_34kZxy3qmOQywSrG%7cbuR2_weqkQ-3srjWLs58-CUqpvDXOaDKVItm6h-qhR5nByJmE03gYt3x_ax8ULz_kfhtJW%7c4kn7Xpw4Cd7Phf_-nhQYeOtTwNpXHWjwxX7oBXXhTnSLLTLhQz8G_ZUsiy3Zz4XOFoM6JW%7c1292403325; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 12-Dec-2020 08:55:25 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 10-Dec-2030 08:55:25 GMT; domain=.paypal.com; path=/; HttpOnly
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[12/17/2010 12:36 AM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=29.99, protection_eligibility=Partially Eligible - INR Only, address_status=unconfirmed, item_number1=1, payer_id=GRKJSZ5T2YV2Q, tax=0.00, address_street=1821 Mirador Drive, payment_date=16:36:30 Dec 16, 2010 PST, payment_status=Completed, charset=windows-1252, address_zip=91702, mc_shipping=0.00, mc_handling=0.00, first_name=Travis, mc_fee=1.17, address_country_code=US, address_name=Travis Townsend, notify_version=3.0, custom=62, payer_status=unverified, business=jquindlen@gmail.com, address_country=United States, num_cart_items=1, mc_handling1=0.00, address_city=Azusa, verify_sign=AynlJ2zsmflH.74VEfIBZZJsEArxAvdMJ88UKVw7OpRkTM1ESoSPjhHK, payer_email=travis@tuneupyourweb.com, mc_shipping1=0.00, txn_id=1VM278216E2964109, payment_type=instant, last_name=T, address_state=CA, item_name1=wpStoreCart PRO (Complete), receiver_email=admin@wpstorecart.com, payment_fee=1.17, quantity1=1, receiver_id=SE5ZM6YQUU7NQ, txn_type=cart, mc_gross_1=29.99, mc_currency=USD, residence_country=US, receipt_id=3066-1362-6889-5635, transaction_subject=62, payment_gross=29.99, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Fri, 17 Dec 2010 00:36:40 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=_Xk-MzoJ41Lq_6_yA35qisxYpYzYs0d7PLPmm5V5mipKbJKHyZvFy-wOgjUteyRZ-c6tSzoHXrt4aBRpXgaq26_OJNUwtYPFceC6JHU7v-yw_ZgZe4w57IitHrQvJpmxd9Bm9W%7cYB6s5YPZGNtbL8YpvAXofFPt4JyC03ylb_FVzxnWrWyLJOs6y-jPujwySkl1qASc_kt0MG%7cwHvy6tdpCcZsayagd51H8FJyV4lMeIE6SrJ2HGsJ_B39ZOCSxgPZV7vhzkka-cejiSdzgW%7c1292546200; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 14-Dec-2020 00:36:40 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 12-Dec-2030 00:36:40 GMT; domain=.paypal.com; path=/; HttpOnly
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[12/17/2010 2:15 PM] - SUCCESS!
+IPN POST Vars from gateway:
+mc_gross=29.99, protection_eligibility=Partially Eligible - INR Only, address_status=unconfirmed, item_number1=1, payer_id=4CNSJ4BF8U5PY, tax=0.00, address_street=str. Muncitorilor nr. 3 ap. 14, payment_date=06:15:11 Dec 17, 2010 PST, payment_status=Completed, charset=windows-1252, address_zip=535800, mc_shipping=0.00, mc_handling=0.00, first_name=Szilard, mc_fee=1.47, address_country_code=RO, address_name=Szilard Mihaly, notify_version=3.0, custom=64, payer_status=verified, business=jquindlen@gmail.com, address_country=Romania, num_cart_items=1, mc_handling1=0.00, address_city=Vlahita, verify_sign=AFd.erwt7VoeoUMr85yut0RloHozAVpPhy245sR1sr584M6ZkQvIaVsW, payer_email=office@mihalysoft.com, mc_shipping1=0.00, txn_id=8ND07223NU703342T, payment_type=instant, last_name=Mihaly, address_state=Hargita county, item_name1=wpStoreCart PRO (Complete), receiver_email=admin@wpstorecart.com, payment_fee=1.47, quantity1=1, receiver_id=SE5ZM6YQUU7NQ, txn_type=cart, mc_gross_1=29.99, mc_currency=USD, residence_country=RO, transaction_subject=64, payment_gross=29.99, 
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Fri, 17 Dec 2010 14:15:32 GMT
+Server: Apache
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=ZO4-6_il22fiqwM70O6EsFXoWOV9yrQXrPSH2fA1t4x5tb8NzC40QWpjPx30sQfiLx7NpIilPRWYfEVi8eX33kglnsspDTAzDV_ycsXVSwlvTTUINzArseYpbUFJohyeMoGLYm%7cXDUOxVH6mljPxEQ6tZrcLPCP0y2uHsLHgekmlnu3fYwjFZkGdO_dljlQfdQ43HosFK5DXm%7ck9sYpZE1PWgmcG_dha1vDOEB2kqumswL3XxOa19Tbn8CCrS3kiyb-N_s-QVNbBsn-dbzb0%7c1292595333; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 14-Dec-2020 14:15:33 GMT; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; HttpOnly
+Set-Cookie: navlns=0.0; expires=Thu, 12-Dec-2030 14:15:33 GMT; domain=.paypal.com; path=/; HttpOnly
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+8
+VERIFIED
+0
+
+
+
+[10/09/2012 2:39 AM] - FAIL: IPN Validation Failed . /cgi-bin/webscr : www.sandbox.paypal.com
+IPN POST Vars from gateway:
+
+IPN Response from gateway Server:
+ HTTP/1.1 200 OK
+Date: Tue, 09 Oct 2012 02:41:38 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=crTU_kmiXtje0vhdSUFcUYmgIqgJr-bZSLboBiIo90ntMFUGPLSiC6ZiWYLJw_HKjTFGhfWq2zi1AMasEy_fRU1etnoqcfvqc4dSkpQpnIBJioclXKDqWbUr9RDVcK-dhX9ksW%7cQYP_GW9u_3ncOcq0-uAGUXtxWztLIhrvvEVDckONMyGiCuRtY7xwi2Ya-uJSoccXye7By0%7c7zsbNhFtGJfeebu6kPm8pmA0UhYg2gDEq7-5LzeP739R2PCom5SX0od1BXqV_ZVx0oNLeW%7c1349750499; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Fri, 07-Oct-2022 02:41:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Mon, 04-Oct-2032 02:41:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.109.11.1349750498661118; path=/; expires=Thu, 02-Oct-42 02:41:38 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+7
+INVALID
+0
+
+
+
